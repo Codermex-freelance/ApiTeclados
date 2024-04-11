@@ -8,7 +8,7 @@
     { "id": "2", "text": "another comment about post 1", "postId": "1" }
   ],
   "profile": {
-    "id": "1",
-    "p2": "Características clave:"
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
   }
 }
